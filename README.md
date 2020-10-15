@@ -99,7 +99,7 @@ Serializer classes, keeping our controller cleaner.
 ## Setting up Fast JSON API
 
 To include Fast JSON API, add `gem 'fast_jsonapi'` to your Rails project's Gemfile
-and run `bundle install`.
+and run `bundle install`. 
 
 Once installed, you will gain access to a new generator, `serializer`.
 
